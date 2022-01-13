@@ -85,8 +85,8 @@ body {
 }
 
 .timer__item-dot {
-    width: 0.7rem;
-    height: 0.7rem;
+    width: 0.8rem;
+    height: 0.8rem;
     background-color: var(--very-dark-mostly-black-blue);
     border-radius: 50%;
     position: absolute;
